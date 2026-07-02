@@ -40,7 +40,7 @@ The system runs in 4 switchable modes:
 ---
 
 ## Demo
-[Watch Demo](your-youtube-link-here)
+[Watch Demo (AI Mock Mode)](https://youtube.com/shorts/tXSn9wYM4nI?feature=share)
 
 ---
 
